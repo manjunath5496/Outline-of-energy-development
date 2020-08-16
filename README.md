@@ -4,10 +4,10 @@
 <h2 id="mw-toc-heading">Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="https://en.wikipedia.org/wiki/Outline_of_energy_development#Overview"><span class="toctext">Overview</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="https://en.wikipedia.org/wiki/Outline_of_energy_development#Energy_sources"><span class="toctext">Energy sources</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="https://en.wikipedia.org/wiki/Outline_of_energy_development#History"><span class="toctext">History</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="https://en.wikipedia.org/wiki/Outline_of_energy_development#Concepts"><span class="toctext">Concepts</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Energy_sources"><span class="toctext">Energy sources</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Concepts"><span class="toctext">Concepts</span></a></li>
 </ul>
 </br>
 <h2><span id="Overview" class="mw-headline">Overview</span></h2>
